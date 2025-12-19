@@ -1,0 +1,6 @@
+customer_segment,retention_strategy,priority
+High-Value At-Risk,Personalized offers & fee waivers,P1
+High-Value Loyal,Loyalty rewards & premium benefits,P3
+Growth At-Risk,Cashback & engagement nudges,P2
+Stable / Regular,Cross-sell & service maintenance,P4
+Low-Value At-Risk,Low-cost digital nudges,P4
